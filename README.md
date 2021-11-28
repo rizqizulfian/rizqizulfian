@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizqizulfian
 - 👀 I’m interested in ReactJs, NodeJs, Javascript, TailwindCSS, AWS
-- 🌱 I’m currently learning more in depth ReactJs & AWS
+- 🌱 I’m currently learning more in depth ReactJs
 - 💞️ I’m looking for the oppurtunity
 - 📫 How to reach me rizqizulfian@gmail.com
 
